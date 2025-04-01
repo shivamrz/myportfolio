@@ -6,5 +6,5 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds: true, // This will skip ESLint errors during build
   },
 };
-
+ 
 export default nextConfig;
