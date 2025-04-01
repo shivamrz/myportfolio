@@ -2,6 +2,7 @@ import { Briefcase, Github, ExternalLink } from "lucide-react";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import Image from "next/image";
 
 export default function Projects() {
   return (
@@ -21,7 +22,7 @@ export default function Projects() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <Card className="overflow-hidden">
             <div className="aspect-video w-full overflow-hidden">
-              <img
+              <Image
                 src="/maxresdefault.jpg?height=300&width=600"
                 alt="Cash Karo App"
                 className="object-cover w-full h-full"
@@ -63,7 +64,7 @@ export default function Projects() {
 
           <Card className="overflow-hidden">
             <div className="aspect-video w-full overflow-hidden">
-              <img
+              <Image
                 src="/business-blogging-img1.jpg?height=300&width=600"
                 alt="Task Management App"
                 className="object-cover w-full h-full"

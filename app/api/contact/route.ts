@@ -14,6 +14,6 @@ export async function POST(req: Request) {
 
     return NextResponse.json({ message: "Message saved successfully!" }, { status: 200 });
   } catch (error) {
-    return NextResponse.json({ error: "Failed to save message" }, { status: 500 });
+    console.error("Error in contact API:", error);
   }
 }
