@@ -23,7 +23,7 @@ export default function Projects() {
           <Card className="overflow-hidden">
             <div className="aspect-video w-full overflow-hidden">
               <Image
-                src="/maxresdefault.jpg?height=300&width=600"
+                src="/maxresdefault.jpg" height={300} width={600}
                 alt="Cash Karo App"
                 className="object-cover w-full h-full"
               />
@@ -65,7 +65,7 @@ export default function Projects() {
           <Card className="overflow-hidden">
             <div className="aspect-video w-full overflow-hidden">
               <Image
-                src="/business-blogging-img1.jpg?height=300&width=600"
+                src="/business-blogging-img1.jpg" height={300} width={600}
                 alt="Task Management App"
                 className="object-cover w-full h-full"
               />
