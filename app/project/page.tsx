@@ -15,7 +15,7 @@ export default function Projects() {
           </div>
           <h2 className="text-3xl font-bold tracking-tight">Featured Work</h2>
           <p className="text-muted-foreground mt-4 max-w-[58rem]">
-            Here are some of the projects I've worked on. Each one presented unique challenges and opportunities for growth.
+            Here are some of the projects I&apos;ve worked on. Each one presented unique challenges and opportunities for growth.
           </p>
         </div>
 

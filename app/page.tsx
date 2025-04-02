@@ -53,13 +53,13 @@ export default function Portfolio() {
                 </div>
                 <h2 className="text-3xl font-bold tracking-tight">Hi, I'm Shivam Raj</h2>
                 <p className="text-muted-foreground">
-                I'm a passionate full-stack developer with expertise in React, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, and TypeScript. I specialize in building scalable, high-performance web applications with a strong focus on backend development and database management.
+                  I&apos;m a passionate full-stack developer with expertise in React, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, and TypeScript. I specialize in building scalable, high-performance web applications with a strong focus on backend development and database management.
                 </p>
                 <p className="text-muted-foreground">
-                My journey in software development began with Java and problem-solving, which led me to explore full-stack development. Since then, I've worked on projects like Cash Karo App and Medium App, honing my skills in API development, authentication, and deployment.
+                  My journey in software development began with Java and problem-solving, which led me to explore full-stack development. Since then, I&apos;ve worked on projects like Cash Karo App and Medium App, honing my skills in API development, authentication, and deployment.
                 </p>
                 <p className="text-muted-foreground">
-                When I'm not coding, you can find me solving DSA problems, exploring new technologies, or refining my project management skills.🚀 
+                  When I&apos;m not coding, you can find me solving DSA problems, exploring new technologies, or refining my project management skills.🚀 
                 </p>
               </div>
             </div>
@@ -72,11 +72,11 @@ export default function Portfolio() {
             <div className="flex flex-col items-center text-center mb-12">
               <div className="inline-flex items-center rounded-lg bg-muted px-3 py-1 text-sm font-medium mb-4">
                 <Cpu className="mr-1 h-4 w-4" />
-                Skills & Technologies
+                  Skills & Technologies
               </div>
               <h2 className="text-3xl font-bold tracking-tight">My Technical Toolkit</h2>
               <p className="text-muted-foreground mt-4 max-w-[58rem]">
-                I've worked with a variety of technologies across the full stack. Here are some of my core competencies:
+                I&apos;ve worked with a variety of technologies across the full stack. Here are some of my core competencies:
               </p>
             </div>
 

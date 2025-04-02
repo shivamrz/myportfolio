@@ -45,7 +45,7 @@ export default function ContactForm() {
           </div>
           <h2 className="text-3xl font-bold tracking-tight">Get In Touch</h2>
           <p className="text-muted-foreground mt-4 max-w-[58rem]">
-            Have a project in mind or want to discuss potential opportunities? I'd love to hear from you!
+            Have a project in mind or want to discuss potential opportunities? I&apos;d love to hear from you!
           </p>
         </div>
 
@@ -53,7 +53,7 @@ export default function ContactForm() {
           <Card>
             <CardHeader>
               <CardTitle>Send Me a Message</CardTitle>
-              <CardDescription>Fill out the form below and I'll get back to you as soon as possible.</CardDescription>
+              <CardDescription>Fill out the form below and I&apos;ll get back to you as soon as possible.</CardDescription>
             </CardHeader>
             <CardContent>
               <form onSubmit={handleSubmit} className="grid gap-4">
